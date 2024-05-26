@@ -2,8 +2,8 @@ excluded:
   - Packages/Modules/.build/checkouts/
 
 disabled_rules:
-#   - nesting
   - force_cast
+#   - nesting
 
 nesting:
   type_level:
