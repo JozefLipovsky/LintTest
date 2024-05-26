@@ -1,0 +1,14 @@
+excluded:
+  - Packages/Modules/.build/checkouts/
+
+disabled_rules:
+#   - nesting
+  - force_cast
+
+nesting:
+  type_level:
+    warning: 2
+    error: 3
+
+type_name:
+  allowed_symbols: "_"
