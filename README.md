@@ -1,4 +1,4 @@
-.
+```
 ├── LintTest
 │   ├── LintTest-iOS
 │   │   ├── Assets.xcassets
@@ -88,3 +88,4 @@
 └── .swiftlint.yml
 
 61 directories, 27 files
+```
