@@ -3,7 +3,7 @@ excluded:
 
 disabled_rules:
   - force_cast
-#   - nesting
+  - colon
 
 nesting:
   type_level:
