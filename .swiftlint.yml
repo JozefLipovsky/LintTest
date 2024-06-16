@@ -1,5 +1,5 @@
 excluded:
-  - Packages/Modules/.build/checkouts/
+  - Packages/Modules/.build/**
 
 disabled_rules:
   - force_cast
